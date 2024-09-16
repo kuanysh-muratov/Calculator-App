@@ -61,3 +61,12 @@ body{
     align-items: center;
     border-radius: 40px;
 }
+.buttons>*{
+    background-color:rgb(105, 105, 105);
+}
+.operators, #equals{
+    background-color: orange;
+}
+#delete, #clear, #percent{
+    background-color:rgb(169, 169, 169);
+}
